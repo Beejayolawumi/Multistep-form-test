@@ -1,0 +1,5 @@
+const InnerCard = (props) => {
+  return <p>{props.banana}</p>;
+};
+
+export default InnerCard;
